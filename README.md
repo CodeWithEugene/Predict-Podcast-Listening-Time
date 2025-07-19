@@ -192,7 +192,7 @@ xgb_params = {
 <h2 align="center">📊 Visualizations</h2>
 
 <p align="center">
-    <img src="image.png" alt="Model Results Visualization" width="900"/>
+    <img src="images/image.png" alt="Model Results Visualization" width="900"/>
 </p>
 
 <ul>
